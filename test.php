@@ -1,3 +1,4 @@
 <?php
-echo "Hello, World! This is a test file.\n";
-echo "This is a test for the GitHub Copilot.\n";
+echo "Hello, Sajedul!";
+echo "Hello, World! This is a test file.";
+
